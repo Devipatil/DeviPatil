@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devi Patil</h1>
 <h3 align="center">I'm a fresher eager to explore opportunities in the tech industry</h3>
 
-- 🌱 I’m currently learning **Python, MongoDB**
+- 🌱 I’m currently learning **Python, MongoDB, Docker**
 
 
 <h3 align="left">Languages and Tools:</h3>
