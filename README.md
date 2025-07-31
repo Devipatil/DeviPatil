@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devi Patil</h1>
-<h3 align="center">A Passionate Java FullStack Developer eager to explore opportunities in the tech industry</h3>
+<h3 align="center">Java Full-Stack Developer | Eager to build and grow in tech</h3>
 
 
 
