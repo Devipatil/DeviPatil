@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devi Patil</h1>
-<h3 align="center">Java Full-Stack Developer | Eager to build and grow in tech</h3>
+<h3 align="center">Passionate Java Full-Stack Developer | Eager to build and grow in tech</h3>
 
 
 
@@ -21,7 +21,7 @@
 
 ---
 
-> *“Where others see errors, I see opportunities to learn and improve.”*
+> *“Where others see errors, I see opportunities to learn and improve.”* — Devi Patil
 
 ---
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-19ug73m-1 fFdGRd">
